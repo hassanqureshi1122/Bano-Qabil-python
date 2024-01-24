@@ -1,2 +1,4 @@
-# Bano-Qabil-python
-CIT PYTHON CLSS 8 TO 10
+This is my First Git Repository
+Authur-Hassan Qureshi
+Bano Qabil Instructor
+Python Cit 8 to 10
